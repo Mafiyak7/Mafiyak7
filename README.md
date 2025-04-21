@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Python modules , Machine Learning ,Operating System, Data Structure and Algorithms**
 
-- 📫 How to reach me **mafiya1912@gmail.com**
+- 📫 How to reach me **abhayupa01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
