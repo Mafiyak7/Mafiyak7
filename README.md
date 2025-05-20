@@ -8,13 +8,80 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Machine and Deep learning**
+<h1 align="center">Hi there, I'm Abhay 👋</h1>
 
-- 🌱 I’m currently learning Machine Learning and Tensorflow **Tensorflow from coursera**
+<p align="center">
+  🔭 Passionate about building intelligent systems and seamless web experiences.
+</p>
 
-- 💬 Ask me about **Python modules , Machine Learning ,Operating System, Data Structure and Algorithms**
+---
 
-- 📫 How to reach me **abhayupa01@gmail.com**
+### 🚀 About Me
+
+- 🔬 Currently diving deep into **Machine Learning** and **Deep Learning**  
+- 🌱 Exploring **TensorFlow** via Coursera and implementing real-world ML models  
+- 💻 Web enthusiast with a knack for **full-stack development**  
+- 📚 Always learning something new in tech and beyond  
+
+---
+
+### 💡 Tech Stack
+
+**Languages:**  
+`C` `C++` `Python` `SQL`
+
+**Web Technologies:**  
+`HTML` `CSS` `JavaScript` `React.js` `Node.js` `MongoDB` `Axios` `Bootstrap` `Tailwind CSS` `Express.js`
+
+**Tools & Frameworks:**  
+`Git` `GitHub` `JWT` `Stripe API`
+
+**Coursework:**  
+`Data Structures & Algorithms` | `Machine Learning` | `Operating Systems` | `DBMS` | `OOP`
+
+---
+
+### 🧠 Currently Exploring
+
+- 🤖 Neural Networks & Deep Learning  
+- 📦 Backend APIs with Node.js and Express  
+- 📈 Scalable full-stack applications using MERN Stack  
+
+---
+
+### 💬 Ask Me About
+
+- Python Modules & Scripting  
+- Machine Learning Concepts  
+- Operating System Fundamentals  
+- DSA (Data Structures & Algorithms)  
+
+---
+
+### 📫 Let's Connect
+
+📧 Email: **abhayupa01@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/abhay-upadhyay-134282324/) — *Add your profile here*  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhayupa01&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhayupa01&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayupa01&layout=compact&theme=radical" width="40%" />
+</p>
+
+---
+
+### ✨ Fun Fact
+
+> “The best way to predict the future is to invent it.” – Alan Kay  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
