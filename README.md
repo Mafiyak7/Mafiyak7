@@ -22,11 +22,11 @@
     <img src="https://img.shields.io/twitter/follow/yourtwitterhandle?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/abhay-upadhyay-134282324/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:abhayupa01@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
