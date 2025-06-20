@@ -94,7 +94,7 @@
 ### 📫 Let's Connect
 
 📧 Email: **abhayupa01@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/abhay-upadhyay-134282324/) — *Add your profile here*  
+
 
 ---
 
