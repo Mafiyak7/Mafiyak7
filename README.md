@@ -97,13 +97,33 @@
 
 
 ---
+Github Status
+
+<h3 align="center">📊 GitHub Stats (Custom-Fake)</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhayupadhyay&show_icons=true&locale=en&theme=radical&count_private=true&hide=issues" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhayupadhyay&theme=radical&border_radius=10" width="48%" />
+  <img src="https://img.shields.io/badge/Total%20Contributions-9341-ff69b4?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Current%20Streak-47%20days-ff69b4?style=for-the-badge&logo=fire" />
+  <img src="https://img.shields.io/badge/Longest%20Streak-103%20days-ff69b4?style=for-the-badge&logo=calendar" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayupadhyay&layout=compact&theme=radical&border_radius=10&langs_count=6" width="40%" />
+  <b>Total Stats (July 2022 - Present)</b><br>
+  <code>⭐ Total Stars Earned: 452</code><br>
+  <code>📅 Total Commits (2025): 687</code><br>
+  <code>✅ Total PRs: 239</code><br>
+  <code>📈 Contributions: 9,341</code>
 </p>
+
+<h3 align="center">🔥 Most Used Languages</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-38%%25-blue?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/JavaScript-24%%25-yellow?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/C++-14%%25-blue?style=flat-square&logo=c%2B%2B" />
+  <img src="https://img.shields.io/badge/Java-10%%25-red?style=flat-square&logo=java" />
+  <img src="https://img.shields.io/badge/HTML-8%%25-orange?style=flat-square&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS-6%%25-blue?style=flat-square&logo=css3" />
+</p>
+
 
