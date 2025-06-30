@@ -102,17 +102,18 @@ Github Status
 <h3 align="center">📊 GitHub Stats (Custom-Fake)</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Contributions-9341-ff69b4?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Current%20Streak-47%20days-ff69b4?style=for-the-badge&logo=fire" />
-  <img src="https://img.shields.io/badge/Longest%20Streak-103%20days-ff69b4?style=for-the-badge&logo=calendar" />
+  <img src="https://img.shields.io/badge/TOTAL%20CONTRIBUTIONS-9341-informational?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/CURRENT%20STREAK-47%20DAYS-ff69b4?style=flat-square&logo=fire" />
+  <img src="https://img.shields.io/badge/LONGEST%20STREAK-103%20DAYS-ff69b4?style=flat-square&logo=calendar" />
 </p>
 
+<p align="center"><strong>Total Stats (July 2022 - Present)</strong></p>
+
 <p align="center">
-  <b>Total Stats (July 2022 - Present)</b><br>
-  <code>⭐ Total Stars Earned: 452</code><br>
-  <code>📅 Total Commits (2025): 687</code><br>
-  <code>✅ Total PRs: 239</code><br>
-  <code>📈 Contributions: 9,341</code>
+  <img src="https://img.shields.io/badge/⭐%20Total%20Stars%20Earned-452-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/📅%20Total%20Commits%20(2025)-687-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/✅%20Total%20PRs-239-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/📈%20Contributions-9,341-lightgrey?style=flat-square" />
 </p>
 
 <h3 align="center">🔥 Most Used Languages</h3>
@@ -122,8 +123,5 @@ Github Status
   <img src="https://img.shields.io/badge/JavaScript-24%%25-yellow?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/C++-14%%25-blue?style=flat-square&logo=c%2B%2B" />
   <img src="https://img.shields.io/badge/Java-10%%25-red?style=flat-square&logo=java" />
-  <img src="https://img.shields.io/badge/HTML-8%%25-orange?style=flat-square&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS-6%%25-blue?style=flat-square&logo=css3" />
+  <img src="https://img.shields.io/badge/HTML/CSS-8%%25-orange?style=flat-square&logo=html5" />
 </p>
-
-
