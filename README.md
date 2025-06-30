@@ -1,4 +1,4 @@
-### <div align="center"><h2>Hello👋 I am Abhay</h2> </div>
+### <div align="center"><h2>" Hello👋 I am Abhay "</h2> </div>
 
 <h3 align="center">B.Tech Undergraduate at Indian Institute of Information Technology, Allahabad</h3>
 
@@ -33,8 +33,9 @@
 ---
 
 <p align="center">
-  🔭 Passionate about building intelligent systems and seamless web experiences.
+  <img src="https://img.shields.io/badge/-🚀 Passionate_about_building_intelligent_systems_and_web_experiences-blueviolet?style=for-the-badge" />
 </p>
+
 
 <p align="center">
   <strong>Languages & Tools:</strong>  
@@ -42,11 +43,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" />  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="30" />  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="30" />  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="30" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="30" />  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" />  
-  <!-- add more as you like -->
 </p>
-
 
 ### 🚀 About Me
 
@@ -118,9 +117,10 @@
 <h3 align="center">🔥 Most Used Languages</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-38%%25-blue?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/JavaScript-24%%25-yellow?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/C++-14%%25-blue?style=flat-square&logo=c%2B%2B" />
-  <img src="https://img.shields.io/badge/Java-10%%25-red?style=flat-square&logo=java" />
-  <img src="https://img.shields.io/badge/HTML/CSS-8%%25-orange?style=flat-square&logo=html5" />
+  <img src="https://img.shields.io/badge/Python-38%25-blue?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/JavaScript-24%25-yellow?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/C++-14%25-blue?style=flat-square&logo=c%2B%2B" />
+  <img src="https://img.shields.io/badge/Java-10%25-red?style=flat-square&logo=java" />
+  <img src="https://img.shields.io/badge/HTML/CSS-8%25-orange?style=flat-square&logo=html5" />
 </p>
+
