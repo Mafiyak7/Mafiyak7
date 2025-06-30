@@ -32,7 +32,20 @@
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/-🚀 Passionate_about_building_intelligent_systems_and_web_experiences-blueviolet?style=for-the-badge" />
+</p>
 
+
+<p align="center">
+  <strong>Languages & Tools:</strong>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" />  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" />  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="30" />  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="30" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="30" />  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" />  
+</p>
 
 ### 🚀 About Me
 
@@ -83,19 +96,33 @@
 
 ---
 
-### 📊 GitHub Stats:
+<h3 align="center" style="background-color:#facc15; color:#1f2937; padding:10px 20px; border-radius:10px;">
+  📊 GITHUB - STATS
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TOTAL%20CONTRIBUTIONS-680-informational?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/CURRENT%20STREAK-32%20DAYS-ff69b4?style=flat-square&logo=fire" />
-  <img src="https://img.shields.io/badge/LONGEST%20STREAK-68%20DAYS-ff69b4?style=flat-square&logo=calendar" />
+  <img src="https://img.shields.io/badge/TOTAL%20CONTRIBUTIONS-850-informational?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/CURRENT%20STREAK-3%20DAYS-ff69b4?style=for-the-badge&logo=fire" />
+  <img src="https://img.shields.io/badge/LONGEST%20STREAK-68%20DAYS-ff69b4?style=for-the-badge&logo=calendar" />
 </p>
 
 <p align="center"><strong>Total Stats (July 2022 - Present)</strong></p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lavishmeena2764&theme=dark&hide_border=false&custom_title=Abhay's%20Current%20Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavishmeena2764&theme=dark&hide_border=false&layout=compact&custom_title=Abhay's%20Top%20Languages" />
+  <img src="https://img.shields.io/badge/⭐%20Total%20Stars%20Earned-452-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📅%20Total%20Commits%20(2025)-687-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/✅%20Total%20PRs-239-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📈%20Contributions-850-lightgrey?style=for-the-badge" />
 </p>
+
+<h3 align="center">🔥 Most Used Languages</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-38%25-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/JavaScript-24%25-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/C++-14%25-blue?style=for-the-badge&logo=c%2B%2B" />
+  <img src="https://img.shields.io/badge/Java-10%25-red?style=for-the-badge&logo=java" />
+</p>
+
+
 
