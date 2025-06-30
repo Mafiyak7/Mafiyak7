@@ -97,7 +97,11 @@
 ---
 
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center" style="background-color:#facc15; color:#1f2937; padding:10px 20px; border-radius:10px;">
+  📊 GITHUB - STATS
+</h3>
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/TOTAL%20CONTRIBUTIONS-9341-informational?style=flat-square&logo=github" />
