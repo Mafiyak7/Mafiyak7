@@ -1,6 +1,5 @@
 
-
-<h1 align="center">Hi 👋, I'm Abhay Upadhyay</h1>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 <h3 align="center">B.Tech Undergraduate at Indian Institute of Information Technology, Allahabad</h3>
 
 <p align="center">
