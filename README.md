@@ -98,7 +98,7 @@
 ---
 Github Status
 
-<h3 align="center">📊 GitHub Stats (Custom-Fake)</h3>
+<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/TOTAL%20CONTRIBUTIONS-9341-informational?style=flat-square&logo=github" />
