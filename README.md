@@ -95,10 +95,10 @@
 
 
 ---
-
-<h3 align="center" style="background-color:#facc15; color:#1f2937; padding:10px 20px; border-radius:10px;">
-  📊 GITHUB - STATS
+<h3 align="center">
+  🚀✨ ======📊 GITHUB - STATS 📊 ======= ✨🚀
 </h3>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/TOTAL%20CONTRIBUTIONS-850-informational?style=for-the-badge&logo=github" />
