@@ -96,7 +96,7 @@
 
 ---
 <h3 align="center">
-  🚀✨ ======📊 GITHUB - STATS 📊 ======= ✨🚀
+  🚀✨ =📊 GITHUB - STATS 📊 =✨🚀
 </h3>
 
 
